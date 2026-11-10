@@ -1,0 +1,17 @@
+button {
+    cursor: pointer;
+    border: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a:active {
+    color: orange;
+}
+
+::selection {
+    background: orange;
+    color: black;
+}
